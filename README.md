@@ -8,4 +8,4 @@ From 2021 to 2023, I successfully managed a Telegram group focused solely on soc
 
 I have conducted ethical penetration tests on web applications for several well-known companies and created my own malware, including a Trojan and a builder panel, strictly for ethical purposes.
 
-I am passionate about security and ethical hacking, and I constantly seek to expand my knowledge and skills in this ever-evolving field.
+I am passionate about security and ethical hacking, and I constantly seek to expand my knowledge and skills in this field.
